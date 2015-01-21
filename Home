@@ -1,0 +1,29 @@
+<html><head><title>Home</title><script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-57737406-1', 'auto');
+  ga('send', 'pageview');
+
+</script></head><body><h1><img src="logo.png" width="200">&nbsp; <a href="home.html">Home</a>&nbsp; <a href="news.html">News</a>&nbsp; <a href="plugins.html">Plugins</a>&nbsp; <a href="texture.html">Resource Pack</a>&nbsp; <a href="spawn.html">Spawn</a>&nbsp; <a href="rules.html">Rules</a></h1>
+
+<h2 align="center">Home</h2>
+
+	<p align="center">Welcome to the XLSurvival Website!</p>
+	<p align="center">XLSurvival is a Minecraft plugin pack created by Gyromancer and noxysxpimt.</p>
+	<p align="center">The pack offers new Minecraft mechanics, machines, tools, crafting recipes, and more!</p>
+	
+	<p align="center">You can check out Gyromancer's play through of XLSurvival here:</p>
+	<p align="center"><iframe width="620" height="378" src="//www.youtube.com/embed/videoseries?list=PL_gy_6VMRze9F3EAtL-RzwvuRQ83OdF3f" frameborder="0" allowfullscreen></iframe></p>
+	
+	<p align="center">Or you can watch him play live here:</p>
+	<p align="center"><iframe src="http://www.twitch.tv/gyr0mancer/embed" frameborder="0" scrolling="no" height="378" width="620"></iframe><a href="http://www.twitch.tv/gyr0mancer?tt_medium=live_embed&tt_content=text_link" style="padding:2px 0px 4px; display:block; width:345px; font-weight:normal; font-size:10px;text-decoration:underline;">Watch live video from Gyr0mancer on www.twitch.tv</a></p>
+
+
+
+
+
+
+</body></html>
